@@ -1,0 +1,13 @@
+.general {
+    height: 115px;
+    padding: 10px 30px;
+    border-bottom: 1px solid #ddd;
+}
+.buttons > div {
+    float: left;
+    margin-right: 10px;
+}
+.bitcoin-icon {
+    margin-top: 5px;
+    font-size: 16px;
+}

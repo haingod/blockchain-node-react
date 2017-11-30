@@ -1,0 +1,22 @@
+.logo {
+    width: 120px;
+    height: 31px;
+    float: left;
+}
+.logo h2 {
+    color: white;
+}
+.layout2-container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top:0;
+    bottom:0;
+}
+
+.content {
+    padding: 10px 30px;
+}
+.buttons {
+    margin-top: 10px;
+}

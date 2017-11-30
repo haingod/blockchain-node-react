@@ -1,0 +1,12 @@
+.panel {
+    width: 100%;
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+}
+.line-top-box {
+    border-top: 1px solid #ddd;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
